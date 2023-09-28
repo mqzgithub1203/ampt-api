@@ -4,7 +4,7 @@
 npm install
 
 # 启动 Node.js 应用
-screen -S mysession -dm node app.js
+screen -S mysession -dm node index.js
 
 # 这里可以添加其他自定义的脚本命令
 
